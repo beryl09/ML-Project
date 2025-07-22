@@ -120,6 +120,8 @@ Confusion matrix:
 
 Figure 2: Plot of error rate against trees
 
+
+
 # Discussions
 
 Episode and Impairment (MDSEI) showcases both strengths and areas for improvement. The odds ratios reveal that gender, age, parental involvement and school experience exhibit significant associations with MDSEI. For instance, being female (AOR: 3.96) and having higher levels of parental involvement (AOR: 2.72) are associated with increased odds of MDSEI, while variables like age and race exhibit more nuanced effects. However, it's noteworthy that race, income, and family structure variables show relatively weaker associations with MDSEI, with odds ratios close to 1.0.
