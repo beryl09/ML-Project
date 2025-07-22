@@ -94,6 +94,8 @@ Prediction for test data
 
 Accuracy test; 69.47%, Recall rate; 72.07%.
 Figure 1: Receiver Operating Characteristic Curve
+
+Roc curve.png
  
 From the Random Forest 
 OOB estimate of error rate: 31.16%.
