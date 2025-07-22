@@ -121,8 +121,8 @@ Confusion matrix:
 | 6   | 0.3431981 | 0.3024602 | 0.3830893 |
 
 Figure 2: Plot of error rate against trees
-Roc curve.png
 
+Errors against Trees.png
 
 # Discussions
 
